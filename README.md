@@ -6,14 +6,14 @@ AppleScript to add Messages App back into Growl. This may not be working for you
 If your like me, you like growl better than the notifications provided by OSX. On a big monitor it is sometimes difficult to see a notification in the top right corner. I like to use musicplayer growl alert. Its almost impossible to miss.  
 
 
-<h2>NOTE:<h2>
+<h5>NOTE:</h5>
 There is also an unanswered stackoverflow question out there here:
 
 http://stackoverflow.com/questions/26789704/applescript-timed-out-messages-app
 
 
 
-<h1>INSTALL:</h1>
+<h3>INSTALL:</h3>
 
 Put your script in:  Users ▸ BIGdave ▸ Library ▸ Application Scripts ▸ com.apple.iChat
 
