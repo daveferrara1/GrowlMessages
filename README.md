@@ -25,6 +25,7 @@ Go to Messages preferences and set to you script file name here:
 
 **if after adding this script and restarting growl, you don't see the messages app listed, try un commenting the following:
 
+<pre>
 -- Register a notification type called "New Mail" with Growl, and enable it.
 --tell application "Growl"
    -- set the allNotificationsList to {"Test Notification"}
@@ -34,7 +35,7 @@ Go to Messages preferences and set to you script file name here:
        -- default notifications enabledNotificationsList ¬
         --icon of application "Messages"
 --end tell
-
+</pre>
 
 This is located at the top in the provided GrowlMessages.applescript file, that may get it to register with growl for you. Then you can comment it out I think.
 
